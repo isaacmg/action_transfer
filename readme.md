@@ -6,5 +6,7 @@ The goal of this project involves performing action detection and recognition fo
 ## Requirements
 
 PyTorch
+
 Python 3.6+
+
 Docker (if using Docker container)
